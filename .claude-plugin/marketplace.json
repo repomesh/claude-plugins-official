@@ -1459,6 +1459,20 @@
       }
     },
     {
+      "name": "langfuse-observability",
+      "description": "The Langfuse x Claude Code Observability Plugin",
+      "author": {
+        "name": "Langfuse"
+      },
+      "category": "monitoring",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/langfuse/claude-observability-plugin.git",
+        "sha": "597af67d6c6b369f3e55db6cfa2ebe444f1af46c"
+      },
+      "homepage": "https://langfuse.com/integrations/other/claude-code"
+    },
+    {
       "name": "laravel-boost",
       "description": "Laravel development toolkit MCP server. Provides intelligent assistance for Laravel applications including Artisan commands, Eloquent queries, routing, migrations, and framework-specific code generation.",
       "category": "development",
